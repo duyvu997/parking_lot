@@ -1,0 +1,22 @@
+{
+  "name": "parking-lot",
+  "version": "1.0.0",
+  "description": "parking lot management",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src/**/**/*.spec.js --recursive"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "duyvu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "sinon": "^9.0.2"
+  }
+}

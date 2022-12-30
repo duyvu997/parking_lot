@@ -16,7 +16,7 @@
     "fs": "0.0.1-security"
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "sinon": "^9.0.2"
   }
 }
